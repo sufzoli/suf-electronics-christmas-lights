@@ -1,4 +1,4 @@
-update=2017. 12. 03. 5:15:10
+update=2017. 12. 03. 21:20:28
 version=1
 last_client=kicad
 [pcbnew]
@@ -72,3 +72,4 @@ LibName30=valves
 LibName31=suf_regulator
 LibName32=suf_batt_mgmt
 LibName33=suf_led
+LibName34=suf_module
